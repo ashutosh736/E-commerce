@@ -1,0 +1,30 @@
+.head1{
+    display: grid;
+    grid-template-columns: 10% 30% 35% 10% 15%;
+    background-color: aquamarine;
+}
+.icon1{
+    font-size: 30px;
+    padding-left: 80px;
+    padding-top: 25px;
+    color: rgb(226, 146, 146);
+}
+.head1 li{
+    list-style: none;
+    padding-top: 25px;
+    font-size: 25px;
+}
+.btn1{
+    border-radius: 25px;
+   margin-top: 25px;
+   margin-bottom: 25px;
+   margin-left: 10px;
+   margin-right: 10px;
+}
+.icon2{
+    font-size: 30px;
+    padding-left: 30px;
+    padding-top: 25px;
+    color: rgb(95, 12, 189);
+
+}

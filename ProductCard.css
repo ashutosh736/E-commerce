@@ -1,0 +1,10 @@
+.p-card {
+    border: 1px solid black;
+    margin: 20px;
+    font-size: 20px;
+    padding: 20px;
+    width: 150px;
+    background-color: lightgreen;
+    border-radius: 15px;
+    box-shadow: 2px 2px 5px black;
+  }
